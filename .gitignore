@@ -1,0 +1,19 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated/local data
+fetched_jobs.csv
+.DS_Store
+Thumbs.db

@@ -1,0 +1,123 @@
+job_title,company,location,experience,salary,employment_type,posted,key_skills,description
+Backend Developer,TechNova Solutions,"Bengaluru, Karnataka",1-3 Yrs,"₹6,00,000 - 9,00,000 P.A.",Full-Time,3 days ago,"Java, Spring Boot, MongoDB, Redis, REST API","About the Role: We are looking for a Backend Developer to join our platform team, building and maintaining the services that power our core product.
+
+Key Responsibilities:
+- Design and build REST APIs using Spring Boot
+- Work with MongoDB and Redis to optimize data access and caching
+- Debug and resolve authentication and session issues (JWT, OTP flows)
+- Write unit tests and participate in code reviews
+
+Requirements:
+- 1-3 years of experience with Java and Spring Boot
+- Familiarity with REST API design and testing tools like Postman
+- Working knowledge of MongoDB or another NoSQL database
+- Good debugging and problem-solving skills"
+Full Stack Developer,BrightSoft Technologies,"Pune, Maharashtra",0-2 Yrs,"₹4,50,000 - 7,50,000 P.A.",Full-Time,1 day ago,"Java, Spring Boot, React, WebSocket, MongoDB","About the Role: Join our product team to build end-to-end features spanning our React frontend and Spring Boot backend, including real-time functionality.
+
+Key Responsibilities:
+- Build UI components in React and integrate them with backend APIs
+- Implement real-time features using WebSocket/STOMP
+- Collaborate with the design team on responsive layouts
+- Fix bugs reported by QA before each release
+
+Requirements:
+- Comfortable with both Java/Spring Boot and React/JavaScript
+- Understanding of REST APIs and basic WebSocket concepts
+- Familiarity with Git-based workflows
+- Fresh graduates with strong personal projects are encouraged to apply"
+Python Developer,DataForge Analytics,"Hyderabad, Telangana",0-1 Yrs,"₹3,50,000 - 5,50,000 P.A.",Full-Time,5 days ago,"Python, Pandas, NumPy, Streamlit","About the Role: We're hiring a Python Developer to support our data tooling team, building internal dashboards and automating data workflows.
+
+Key Responsibilities:
+- Write Python scripts to clean and process datasets
+- Build small internal tools and dashboards using Streamlit
+- Work with Pandas/NumPy for data manipulation
+- Document scripts and tools for the wider team
+
+Requirements:
+- Solid fundamentals in Python
+- Exposure to Pandas and NumPy through coursework or projects
+- Bonus: experience with Streamlit or another dashboarding tool"
+Machine Learning Intern,VisionAI Labs,Remote,0 Yrs (Internship),"₹15,000 - 25,000 /month",Internship,2 days ago,"Python, scikit-learn, TF-IDF, Machine Learning","About the Role: A 6-month internship working on our recommendation systems team, helping build and evaluate text-based matching models.
+
+Key Responsibilities:
+- Assist in building recommendation features using TF-IDF and cosine similarity
+- Experiment with scikit-learn models under mentor guidance
+- Help clean and prepare text datasets
+- Present findings in weekly team syncs
+
+Requirements:
+- Final-year student or recent graduate in CS or a related field
+- Basic understanding of Python and scikit-learn
+- Curiosity about NLP/text-based ML — no prior job required"
+Frontend Developer,PixelWorks Digital,"Kolkata, West Bengal",0-2 Yrs,"₹3,00,000 - 5,00,000 P.A.",Full-Time,6 days ago,"HTML, CSS, JavaScript, React","About the Role: We're looking for a Frontend Developer to help build responsive, accessible web interfaces for our client projects.
+
+Key Responsibilities:
+- Build responsive UIs using HTML, CSS, and JavaScript
+- Develop reusable components in React
+- Ensure mobile-friendly design and basic accessibility standards
+- Work closely with designers to match Figma mockups closely
+
+Requirements:
+- Strong fundamentals in HTML/CSS/JavaScript
+- Some experience with React (coursework or personal projects count)
+- An eye for clean, usable UI"
+Software Engineer Intern,CloudBridge Systems,"Gurugram, Haryana",0 Yrs (Internship),"₹12,000 - 20,000 /month",Internship,4 days ago,"Java, Spring Boot, REST API, Postman","About the Role: A hands-on backend internship supporting our core services team, working directly with senior engineers.
+
+Key Responsibilities:
+- Support backend services written in Java/Spring Boot
+- Fix reported bugs and write unit tests
+- Test REST endpoints using Postman before release
+- Document findings and raise blockers early
+
+Requirements:
+- Pursuing or recently completed a B.Tech in CS or related field
+- Basic Java and Spring Boot knowledge
+- Willingness to learn and ask questions"
+Data Analyst,InsightHub Analytics,"Mumbai, Maharashtra",1-3 Yrs,"₹5,00,000 - 8,00,000 P.A.",Full-Time,1 week ago,"Python, Pandas, Matplotlib, SQL","About the Role: Join our analytics team to turn raw business data into dashboards and insights that drive decisions.
+
+Key Responsibilities:
+- Analyze datasets using Python, Pandas, and SQL
+- Build dashboards to visualize key business metrics
+- Present findings to non-technical stakeholders
+- Maintain data quality across recurring reports
+
+Requirements:
+- Strong SQL and Python (Pandas) skills
+- Experience with Matplotlib or another visualization library
+- Clear communication skills for presenting data findings"
+Java Developer,CoreStack Technologies,"Chennai, Tamil Nadu",2-4 Yrs,"₹7,00,000 - 11,00,000 P.A.",Full-Time,2 weeks ago,"Java, Spring Boot, MySQL","About the Role: We need a Java Developer to design and maintain backend services for our enterprise clients.
+
+Key Responsibilities:
+- Design and implement backend services in Java/Spring Boot
+- Work with MySQL for relational data storage
+- Collaborate with QA to resolve reported defects
+- Participate in sprint planning and code reviews
+
+Requirements:
+- 2+ years of professional Java/Spring Boot experience
+- Solid understanding of relational databases (MySQL)
+- Experience working in an Agile/Scrum team"
+Chatbot Developer,ChatSmart AI,Remote,0-2 Yrs,"₹4,00,000 - 6,50,000 P.A.",Full-Time,3 days ago,"Python, NLP, Chatbot Development","About the Role: Build and improve rule-based and ML-based chatbots that power customer support for our clients.
+
+Key Responsibilities:
+- Build rule-based and ML-based chatbot flows in Python
+- Apply basic NLP techniques to improve response accuracy
+- Test conversations against real user queries
+- Iterate on chatbot scripts based on user feedback
+
+Requirements:
+- Comfortable with Python
+- Basic exposure to NLP concepts (even through coursework)
+- Interest in conversational design"
+React Developer,AppFlow Studio,"Noida, Uttar Pradesh",1-3 Yrs,"₹5,50,000 - 8,50,000 P.A.",Full-Time,5 days ago,"React, JavaScript, REST API","About the Role: We're expanding our frontend team and need a React Developer to build and maintain client-facing applications.
+
+Key Responsibilities:
+- Build and maintain client-side applications using React.js
+- Integrate frontend with REST APIs built by the backend team
+- Optimize components for performance
+- Write clean, reusable, well-documented code
+
+Requirements:
+- 1+ years hands-on experience with React
+- Comfortable consuming REST APIs
+- Familiarity with state management (Context API/Redux) is a plus"

@@ -1,0 +1,17 @@
+[theme]
+# Main background color (dark professional blue)
+primaryColor = "#1f77b4"
+# Secondary accent color (bright cyan)
+backgroundColor = "#0f1419"
+# Sidebar background color (slightly lighter dark)
+secondaryBackgroundColor = "#1a1f2e"
+# Text color (light gray for readability)
+textColor = "#e8eaed"
+# Font
+font = "sans serif"
+
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
