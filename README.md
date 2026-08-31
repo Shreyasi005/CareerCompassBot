@@ -60,18 +60,4 @@ streamlit run app.py
 
 6. Open the local Streamlit URL shown in the terminal.
 
-## Job Recommendation Approach
 
-The recommender combines the user's entered skills/experience with each job's skills and description. **TF-IDF** converts the text into numerical vectors, while **cosine similarity** calculates how closely the user profile matches each job. Results are ranked by match score.
-
-## Job Data
-
-`jobs.csv` contains sample job postings. `generate_jobs.py` can regenerate the sample dataset. `fetch_jobs.py` can retrieve job postings through the Adzuna API when valid API credentials are configured.
-
-## Security
-
-API keys and secrets should never be committed to GitHub. Store the Gemini key in a local `.env` file or the deployment platform's secrets manager. The repository intentionally includes only `.env.example`.
-
-## Deployment
-
-The app can be deployed using Streamlit Community Cloud by connecting the GitHub repository and selecting `app.py` as the main file. Add `GEMINI_API_KEY` to the deployment secrets before using the chatbot.
